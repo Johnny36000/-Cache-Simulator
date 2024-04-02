@@ -1,0 +1,12 @@
+﻿  cache-project.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache-project.cpp(9,5): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache-project.cpp(13,51): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+  cache.cpp
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache.cpp(24,2): warning C4267: 'initializing': conversion from 'size_t' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache.cpp(28,42): warning C4244: '+=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache.cpp(47,15): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache.cpp(52,20): warning C4244: '=': conversion from 'double' to 'int', possible loss of data
+C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\cache-project\cache.cpp(152,18): warning C4244: 'return': conversion from 'float' to 'int', possible loss of data
+  global.cpp
+  Generating Code...
+  cache-project.vcxproj -> C:\Users\Work pc\Desktop\UNI\Fall 2023\Assembly\Cache Memory project final version\x64\Debug\cache-project.exe
